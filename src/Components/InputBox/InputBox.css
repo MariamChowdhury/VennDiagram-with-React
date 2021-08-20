@@ -1,0 +1,11 @@
+.input-container {
+  height: 100vh;
+  background-color: #f0d9ff;
+}
+.brown-color {
+  background-color: #4f0e0e;
+}
+.form-container {
+  margin: 0 auto;
+  padding-top: 10rem;
+}
