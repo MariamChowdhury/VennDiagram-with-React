@@ -14,3 +14,6 @@ li {
 .green-color {
   background-color: #9fe6a0;
 }
+.card h5 {
+  padding-bottom: 15px;
+}
