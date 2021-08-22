@@ -39,7 +39,7 @@ const InputBox = () => {
                   name="inputA"
                   type="text"
                   className="form-control"
-                  placeholder=""
+                  placeholder="Enter texts/numbers/characters"
                   ref={register({ required: true })}
                 />
               </div>
@@ -48,6 +48,7 @@ const InputBox = () => {
                 <input
                   name="inputB"
                   type="text"
+                  placeholder="Enter texts/numbers/characters"
                   className="form-control"
                   ref={register({ required: true })}
                 />
